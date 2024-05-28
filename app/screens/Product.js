@@ -19,7 +19,7 @@ export const Product = ({navigation}) =>{
 const styles = StyleSheet.create({
     container: {
       flex: 1,
-      backgroundColor: '#fff',
+      backgroundColor: 'lightslategrey',
       alignItems: 'center',
       justifyContent: 'center',
     },
