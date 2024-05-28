@@ -9,7 +9,7 @@ export const Contacts = ({navigation}) => {
         <Button
             title='HOME'
             onPress={()=>{
-                navigation.navigate('HomeNav');
+                navigation.navigate('Wellcome_Juan_Yanangomez');
             }}
         />
     </View>
